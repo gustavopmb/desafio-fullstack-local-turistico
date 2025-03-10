@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo - Rocketseat" src="./.github/logo.png" width="200px" />
+  <img alt="Logo - Rocketseat" src="/assets/logo.png" width="200px" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Desafio de projeto de um local turistico proposto durante as aulas sobre Fundame
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src="./.github/preview.png" width="100%">
+  <img alt="Preview do projeto desenvolvido." src="/assets/thumbnail.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
