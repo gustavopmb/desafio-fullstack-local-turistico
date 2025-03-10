@@ -25,8 +25,8 @@ Desafio de projeto de um local turistico proposto durante as aulas sobre Fundame
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 
 ## Projeto
 Nesse desafio de projeto iremos desenvolver uma página de um local turistico.
